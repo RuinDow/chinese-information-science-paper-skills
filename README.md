@@ -126,9 +126,11 @@ project_root/
 - `skills/paper-conclusion&abstract-generator/`：撰写结论与摘要
 - `skills/docx/`：负责最终 Word 导出，需用户自行提供
 
-## 六、致谢
+## 致谢
 
 本仓库在设计过程中参考了以下项目，在此表示感谢：
 
-- `https://github.com/luwill/research-skills/tree/main`
-- `https://github.com/Galaxy-Dawn/claude-scholar/tree/main`
+- [`https://github.com/luwill/research-skills/tree/main`](https://github.com/Galaxy-Dawn/claude-scholar)
+- [`https://github.com/Galaxy-Dawn/claude-scholar/tree/main`](https://github.com/luwill/research-skills)
+
+如果对你有帮助的话，欢迎给我一个Star！有任何问题请讨论！
